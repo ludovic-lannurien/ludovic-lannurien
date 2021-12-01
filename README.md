@@ -1,6 +1,7 @@
 # Hi everyone  &#128400;
 ![My picture](https://github.com/ludovic-lannurien/ludovic-lannurien/blob/master/my-banner.png)
-I am Ludovic, I'm living in France and more specifically in Dijon. I'm a **young developer** working with PHP and React. I would like to improve my skills in these two languages.
+I am Ludovic, I'm living in France and more specifically in Dijon. I'm a **young developer** working with PHP and React. 
+<br>I would like to improve my skills in these two languages.<br>
 I also enjoy wireframing, ui, ux, and design in general.<br>
 I hope to be able to show you my skills in these different areas soon.
 
