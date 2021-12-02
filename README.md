@@ -113,20 +113,8 @@ I hope to be able to show you my skills in these different areas soon.
             <br>Figma
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/illustrator/illustrator-plain.svg" width="48" height="48" alt="Illustrator" />
-            <br>Illustrator
-        </td>
-        <td align="center" width="140" height="112.43">
             <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop" />
             <br>Photoshop
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/premierepro/premierepro-original.svg" width="48" height="48" alt="Premiere Pro" />
-            <br>Premiere Pro
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/xd/xd-plain.svg" width="48" height="48" alt="Xd" />
-            <br>Xd
         </td>
     </tr>
 </table>
