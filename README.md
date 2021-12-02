@@ -5,6 +5,10 @@ I am Ludovic, I'm living in France and more specifically in Dijon. I'm a **young
 I also enjoy wireframing, ui, ux, and design in general.<br>
 I hope to be able to show you my skills in these different areas soon.
 
+## My Networks
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ludovic-lannurien/) LinkedIn  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](ludovic.lannurien@gmail.com)  Mail
+ 
 ## My Knowledge
 <table align= "center" border="1">
     <tr>
