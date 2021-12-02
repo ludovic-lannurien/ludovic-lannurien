@@ -121,5 +121,8 @@ I hope to be able to show you my skills in these different areas soon.
 
 
 ## My Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ludovic-lannurien)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludovic-lannurien)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ludovic-lannurien&show_icons=true) 
 
